@@ -1,2 +1,1 @@
-# RoughWork-Practice-Work-
-Rough Example to use 
+=> This is for the css properties to check
